@@ -1,0 +1,8 @@
+{
+  "name": "Saravana Contact",
+  "description": "Professional contact page and portfolio form for Saravana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
