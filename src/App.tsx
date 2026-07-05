@@ -72,7 +72,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="text-zinc-500 uppercase text-[10px] font-bold tracking-widest mb-0.5">Location</p>
-                  <p className="text-zinc-100 font-medium">Available for remote work worldwide</p>
+                  <p className="text-zinc-100 font-medium">Chennai</p>
                 </div>
               </div>
             </div>
@@ -176,7 +176,7 @@ export default function App() {
       </main>
 
       <footer className="px-6 lg:px-12 py-6 lg:py-8 border-t border-zinc-900/50 flex flex-col sm:flex-row justify-center items-center text-[10px] font-medium text-zinc-600 uppercase tracking-widest gap-4 sm:gap-0 mt-auto">
-        <div>© {new Date().getFullYear()} Saravana — Engineering Portfolio</div>
+        <div>© {new Date().getFullYear()} SaravanaKumar. All rights reserved. </div>
       </footer>
     </div>
   );
