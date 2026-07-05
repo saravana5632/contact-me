@@ -25,7 +25,7 @@ export default function App() {
     <div className="min-h-screen bg-[#09090b] text-zinc-200 flex flex-col font-sans overflow-x-hidden selection:bg-blue-500/30">
       <header className="flex justify-between items-center px-6 lg:px-12 py-6 lg:py-8 border-b border-zinc-900/50">
         <div className="text-xl font-bold tracking-tight text-white uppercase">
-          Saravanakumar<span className="text-blue-500">.</span>
+          Saravanakumar<span className="text-blue-500"></span>
         </div>
         <nav className="hidden sm:flex gap-10 text-[11px] font-bold text-zinc-500 uppercase tracking-[0.2em]">
           <a href="#" className="hover:text-white transition-colors text-blue-500">Contact</a>
